@@ -1,0 +1,4 @@
+class: rebuild-drop
+sql-file: report.sql
+table-def: report.ct
+dest-table: examples.report
