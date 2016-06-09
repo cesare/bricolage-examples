@@ -1,0 +1,5 @@
+CREATE TABLE ${dest_table} (
+  month date not null,
+  amount decimal not null
+)
+;

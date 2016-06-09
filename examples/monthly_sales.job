@@ -1,0 +1,4 @@
+class: rebuild-drop
+sql-file: monthly_sales.sql
+table-def: monthly_sales.ct
+dest-table: examples.monthly_sales
