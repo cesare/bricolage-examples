@@ -1,0 +1,8 @@
+sql:
+  type: psql
+  host: dwh-001.xxxxxxxxx.ap-northeast-1.redshift.amazonaws.com
+  port: 5439
+  database: dev
+  username: dwh_dev
+  pgpass: <%= user_home_relative_path '.pgpass' %>
+  encoding: utf8
