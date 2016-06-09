@@ -1,0 +1,4 @@
+class: rebuild-drop
+sql-file: user_registrations.sql
+table-def: user_registrations.ct
+dest-table: examples.user_registrations
